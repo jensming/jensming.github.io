@@ -1,0 +1,68 @@
+#page {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    background-color: #fafeff;
+}
+    
+#title {
+    background-color: #33F1FF;
+    text-align: center;
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 40px;
+}
+
+#bio {
+    text-align: center;
+}
+
+.SearchBar {
+    background-color: lightGrey;
+    text-align: left;
+    font-family: "Georgia", "Times New Roman", serif;
+    border-style: groove;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 405px;
+}
+
+.SearchBar input{
+    height: 25px;
+    width: 400px;
+}
+
+#content {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#localStores {
+    float: left;
+}
+
+#map {
+    float: right;
+    width: 550px;
+    height: 475px;
+}
+
+.item {
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.theRest {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#storeListings {
+    background-color: #A4E3F8;
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
